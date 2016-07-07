@@ -37,11 +37,10 @@ Sample inputs are available in files lab1.txt, lab2.txt, and lab3.txt. Each file
 columns. The first column is the number of days lapsed between the specific lab measurement for a 
 patient. The second column contains the number of patients that exhibit this time lapse in the data. 
 The program outputs a file with each row containing the measurment gaps per lab found by the program. 
-The program creates such a file for each long term and short term specifications. The specifications are the following: 
-    short-term period  	    long-term period
-1.	30 days									180 days
-2.	30 days									90 days
-3.	365 days								none
+The program creates such a file for each long term and short term specifications. The following are the short term and long term period specifications: 
+1.	30 days, 180 days
+2.	30 days, 90 days
+3.	365 days, none
 
 ##############
 # References #

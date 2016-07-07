@@ -43,14 +43,19 @@ The program creates such a file for each long term and short term specifications
 2.	30 days									90 days
 3.	365 days								none
 
-References:
+##############
+# References #
+##############
 [1] A. Kejariwal. Introducing practical and robust anomaly detection in a time series.
 https://blog.twitter.com/2015/introducing-practical-and-robust-anomaly-detection-in-a-time-series,
 Accessed: 12-05-2015.
+
 [2] R.B. Cleveland, W.S. Cleveland, J.E. Mcrae, I. Terpenning. Stl: A seasonal-trend decomposition 
 procedure based on loess. Journal of Ocial Statistics, 6(1):3{73, 1990.
+
 [3] B. Rosner. Percentage points for a generalized esd many-outlier procedure. Technometrics, 25
 (2):165-172, 1983.
+
 [4] O. Vallis, J. Hochenbaum, A. Kejariwal. A novel technique for long-term anomaly detection in the
 cloud. In Proceedings of the 6th USENIX Conference on Hot Topics in Cloud Computing, HotCloud'14,
 pages 15{15. USENIX Association, 2014.

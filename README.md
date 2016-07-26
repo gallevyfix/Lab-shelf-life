@@ -47,7 +47,7 @@ https://blog.twitter.com/2015/introducing-practical-and-robust-anomaly-detection
 Accessed: 12-05-2015.
 
 [2] R.B. Cleveland, W.S. Cleveland, J.E. Mcrae, I. Terpenning. Stl: A seasonal-trend decomposition 
-procedure based on loess. Journal of Ocial Statistics, 6(1):3{73, 1990.
+procedure based on loess. Journal of Official Statistics, 6(1):3-73, 1990.
 
 [3] B. Rosner. Percentage points for a generalized esd many-outlier procedure. Technometrics, 25
 (2):165-172, 1983.

@@ -54,5 +54,5 @@ procedure based on loess. Journal of Official Statistics, 6(1):3-73, 1990.
 
 [4] O. Vallis, J. Hochenbaum, A. Kejariwal. A novel technique for long-term anomaly detection in the
 cloud. In Proceedings of the 6th USENIX Conference on Hot Topics in Cloud Computing, HotCloud'14,
-pages 15{15. USENIX Association, 2014.
+pages 15-15. USENIX Association, 2014.
 

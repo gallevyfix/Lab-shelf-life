@@ -1,2 +1,2 @@
-This folder contains the half-lives learned for 69 labs using the EHR data of patients from the NYPH clinical 
-data warehouse between 1990 and 2010. Half-lives for each labs are presented in the histogram graph of each lab. 
+This folder contains the Shelf-lives learned for 66 labs using the EHR data of patients from the NYPH clinical 
+data warehouse between 1990 and 2010. Shelf-lives for each labs are presented in the histogram graph of each lab. 

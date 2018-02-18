@@ -1,0 +1,72 @@
+Lab abbreviations,Lab name
+(1)25OHVD,vitamind_25oh
+(3)ALB,albumin
+(4)ALK,alkaline
+(5)ALT,alanine transaminase
+(6)AMY,amylase
+(7)AST,aspartate aminotransferase
+(8)BASOSA,Êblood absolute basophil counts
+(9)BASOSP,Êblood percentage basophil counts
+(10)BEA,baseexcess_arterial
+(11)BICA,bicarbonate
+(12)BNP,b-type natriuretic peptide
+(13)BUN,blood urea nitrogen
+(14)CAI,calcium_ionized
+(15)CA,calcium_total
+(16)CEA, carcinoembrionic antigen
+(17)CHOL,cholesterol_total
+(18)CK,creatinine kinase
+(19)CKMB,creatine kinase mb
+(20)CL,chloride
+(21)CREAT,creatinine
+(22)CRPHI,c-reactive protein
+(23)DBIL,bilirubin_direct
+(24)DIG,digoxin
+(25)ESR,erythrocyte sedimentation rate
+(26)FE,iron
+(27)FERR,ferritin
+(28)FOL,folate
+(29)FREET4,free thyroxine
+(30)GLU,blood glucose
+(32)HA1C,hemoglobin a1c
+(33)HCT,hematocrit
+(34)HDL,hdl cholesterol
+(35)HGB,hemoglobin
+(36)HOM,homocysteine_blood
+(37)IBC,Êiron binding capacity
+(38)K,potassium
+(39)LD, lactate dehydrogenase isoenzyme
+(40)LDL,ldl cholesterol
+(41)LIPA,lipase
+(42)LYMPH,lymphocyte_serum_percent
+(43)MCHC,mean red cell hemoglobin concentration
+(44)MCH,mean red cell hemoglobin
+(45)MCV,mean corpuscular volume
+(46)MG,magnesium
+(47)MONOSP,monocyte_absolute
+(48)MPV,mean platelet volume
+(49)NA,sodium
+(50)NRBCA,nucleated erthrocyte absolute
+(51)NRBC,nucleated erythrocyte
+(52)PCO2A,Êpco2 arterial
+(53)PCO2V,Êp co2 venous
+(54)PHA,arterial blood phÊ
+(55)PHOS,phosphate
+(56)PHUA,ph_urine
+(57)PHV,ph_venous
+(58)PLT,platelet
+(59)PO2,po2 arterial
+(60)PO2V,po2 venous
+(61)PROT,protein_total
+(62)PSA,Êprostate specific antigen
+(63)PTHI,parathyroid hormone intact
+(64)RBC,erythrocyte
+(65)RDW,red cell diameter width
+(66)T4,thyroxine
+(67)TBIL,bilirubin_total
+(68)TRIG,triglycerides
+(69)TROPI,troponini
+(70)TSH,thyroid stimulating hormone
+(72)URIC,uricacid_blood
+(73)VITB12,vitaminb12
+(74)WBC,white blood cell count
